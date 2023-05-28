@@ -48,7 +48,7 @@ Para observar el resutlado de este flow, sólo es necesario abrir la pestaña De
 
 ## Resultados
 
-A continuación puede verse una vista previa del resultado de este flow.
+A continuación se puede observar una vista previa del resultado del flow1.
 
 ![](https://github.com/YasminZagal/flow1-G12/blob/main/Captura%20desde%202023-05-27%2021-03-35.png)
 
